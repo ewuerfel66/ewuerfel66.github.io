@@ -6,6 +6,11 @@
 #            site.social-network-links.<key>
 #   icon: Specify a valid fontawesome icon class
 
+minds:
+  name: "Minds"
+  baseURL: "https://www.minds.com/"
+  icon: "fa-facebook"
+
 facebook:
   name: "Facebook"
   baseURL: "https://www.facebook.com/"
