@@ -59,7 +59,7 @@ footer-link-col: "#404040"
 
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
+page-img: "/img/honeycomb_back.png"
 
 # --- Footer options --- #
 
@@ -73,9 +73,9 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: https://opendialogueideasandnews.libsyn.com/rss
+#  rss: https://opendialogueideasandnews.libsyn.com/rss
   email: "eric97@vt.edu"
-  #facebook: daattali
+# facebook: daattali
   github: ewuerfel66
   twitter: thus_spake_eric
 #  reddit: yourname
