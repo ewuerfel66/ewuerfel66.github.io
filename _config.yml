@@ -45,10 +45,10 @@ avatar: "/img/HeadShot_thumbnail.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#305082"
-navbar-text-col: "#eaf2ff"
-navbar-children-col: "#1d2f4c"
-page-col: "#e8e8e8"
+navbar-col: "#1D2F4C"
+navbar-text-col: "#EAF2FF"
+navbar-children-col: "#305082"
+page-col: "#E8E8E8"
 link-col: "#244B60"
 hover-col: "#26344c"
 footer-col: "#F5F5F5"
