@@ -50,7 +50,7 @@ navbar-children-col: "#1d2f4c"
 page-col: "#e8e8e8"
 link-col: "#244B60"
 hover-col: "#26344c"
-# footer-col: "#F5F5F5"
+footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
