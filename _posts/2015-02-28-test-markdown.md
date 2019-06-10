@@ -28,6 +28,8 @@ How about a yummy crepe?
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
+![Insulin](https://www.minds.com/media/984574560760950784)
+
 Here's a code chunk:
 
 ~~~
