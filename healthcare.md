@@ -1,3 +1,8 @@
+---
+title: Health Care
+subtitle: Why do we spend so much?
+---
+
 # Health Care
 
 ## Insulin Prices Rise 2012-2018
