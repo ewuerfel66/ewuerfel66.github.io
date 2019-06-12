@@ -12,4 +12,4 @@ How do we discriminate between necessary regulations to protect consumers, and o
 
 We track the money.
 
-![Insulin](https://github.com/ewuerfel66/ewuerfel66.github.io/blob/master/img/insulin.PNG)
+[Insulin](https://github.com/ewuerfel66/ewuerfel66.github.io/blob/master/img/insulin.PNG)
