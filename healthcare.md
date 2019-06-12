@@ -11,3 +11,5 @@ Look, Health Care is a tricky business. The life or death nature of Health Care 
 How do we discriminate between necessary regulations to protect consumers, and opaque regulations that hurt consumers?
 
 We track the money.
+
+![Insulin](https://github.com/ewuerfel66/ewuerfel66.github.io/blob/master/img/insulin.PNG)
