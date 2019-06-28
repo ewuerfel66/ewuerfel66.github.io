@@ -9,11 +9,3 @@ As of 2016, the United States spent about 17% of our GDP on Health Care accordin
 Look, Health Care is a tricky business. The life or death nature of Health Care transactions makes the industry ripe for regulation. Patients in life threatening situations have no leverage to negotiate prices, which can lead to market failure. On the contrary, opaque regulation in Health Care causes information asymmetry in the market, which can also lead to market failure. The government has a compelling interest in the health of all it's citizens (particularly the labor force).
 
 How do we discriminate between necessary regulations to protect consumers, and opaque regulations that hurt consumers?
-
-We track the money.
-
-![Insulin](https://github.com/ewuerfel66/ewuerfel66.github.io/blob/master/img/eliLilly.jpg)
-
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
