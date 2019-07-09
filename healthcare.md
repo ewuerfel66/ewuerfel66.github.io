@@ -2,6 +2,7 @@
 layout: page
 title: Health Care
 subtitle: Why do we spend so much?
+bigimg: /img/healthcare_header.jpg
 ---
 
 As of 2016, the United States spent about 17% of our GDP on Health Care according to data from [The World Bank](https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS?end=2016&locations=GB-US-EU-FR-DE&most_recent_value_desc=true&start=2016&view=bar). France and Germany come in second and third place, spending about 11.5% and 11% respectively. The United States is a uniquely large and diverse country, so comparing ourselves to our European counterparts could be misleading. The European Union as a whole matches America's population better. Averaging across countries, the European Union spent only about 10% of their GDP on Health Care in 2016.
