@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Eric Wuerfel
+subtitle: Eric Wuerfel - eric97@vt.edu
 ---
 
 - Data nerd.
