@@ -4,13 +4,17 @@ title: About me
 subtitle: Eric Wuerfel - eric97@vt.edu
 ---
 
-- Data nerd.
-- Dog lover.
+- Husband.
+- Data Engineer.
 - Musician.
 
-I went into Physics because I like to create and test quantitative models. Research in Physics has become quite specialized, but the methods are widely applicable. My desire to apply quantitative methods to a wider variety of real-world problems led me to Data Science at Lambda School.
+As a college student, I was drawn into physics because I like to create and test quantitative models of reality. Research in physics has become quite specialized, but the data processing methods are widely applicable. Working with 16 kHz gravitational wave data gave me my first reason to use distributed computing.
 
-I've used BeautifulSoup and Selenium to scrape data from a bunch of different online sources. I can create integrated data pipelines to collect and process data from APIs, RSS feeds and websites. Scikit-learn and Tensorflow with Keras are my tools for machine learning. In addition to linear and logistic regressions, I've trained k-nearest neighbor, random forest and decision tree models for use in web applications. To connect models to applications, I create Flask APIs that take requests and return output from the model.
+After graduation, I beefed up my coding skills at LambdaSchool. I got my first experience working on an Agile team and developed a more consumer-focused mindset.
+
+Since then, I’ve been building automated production data ingestion processes as a part of Lowe’s Digital Analytics and Computational Insights (DACI) team.
+
+I dabble with ML in my spare time, but believe there is a lot that can be accomplished with the data alone.
 
 ### education
 

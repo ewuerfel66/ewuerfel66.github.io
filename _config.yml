@@ -15,7 +15,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Eric Wuerfel | Data Nerd
+title: Eric Wuerfel | Data Engineer
 
 # Short description of your site
 # description: A quick overview of my work.
@@ -25,9 +25,7 @@ title: Eric Wuerfel | Data Nerd
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  ODIN: "http://opendialogueideasandnews.libsyn.com/"
   Projects:
-    - Wildfire Watch: "https://wildfirewatchapp.com/"
     - Simpson Says: "https://simpsonsays.netlify.com/"
     - Medicare Cost Estimator: "https://medicare-cost-estimator.herokuapp.com/"
     - Insulin Prices Soar: "https://medium.com/@eric97/insulin-prices-in-america-double-a01847eee936"
@@ -75,10 +73,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: https://opendialogueideasandnews.libsyn.com/rss
-  email: "eric97@vt.edu"
+  email: "ericwuerfel@protonmail.com"
 # facebook: daattali
   github: ewuerfel66
-  twitter: ericwuerfel
+#  twitter: ericwuerfel
 #  reddit: yourname
 #  google-plus: +DeanAttali
   linkedin: eric-wuerfel
